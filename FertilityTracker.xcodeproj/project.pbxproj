@@ -13,6 +13,7 @@
 		7A32253B2834759D00CFB198 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7A32253A2834759D00CFB198 /* Preview Assets.xcassets */; };
 		7A32253D2834759D00CFB198 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A32253C2834759D00CFB198 /* Persistence.swift */; };
 		7A3225402834759D00CFB198 /* FertilityTracker.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 7A32253E2834759D00CFB198 /* FertilityTracker.xcdatamodeld */; };
+		7A322547283475F200CFB198 /* CalendarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A322546283475F100CFB198 /* CalendarView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		7A32253A2834759D00CFB198 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		7A32253C2834759D00CFB198 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		7A32253F2834759D00CFB198 /* FertilityTracker.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = FertilityTracker.xcdatamodel; sourceTree = "<group>"; };
+		7A322546283475F100CFB198 /* CalendarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalendarView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				7A32253C2834759D00CFB198 /* Persistence.swift */,
 				7A32253E2834759D00CFB198 /* FertilityTracker.xcdatamodeld */,
 				7A3225392834759D00CFB198 /* Preview Content */,
+				7A322546283475F100CFB198 /* CalendarView.swift */,
 			);
 			path = FertilityTracker;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7A322547283475F200CFB198 /* CalendarView.swift in Sources */,
 				7A32253D2834759D00CFB198 /* Persistence.swift in Sources */,
 				7A3225402834759D00CFB198 /* FertilityTracker.xcdatamodeld in Sources */,
 				7A3225362834759B00CFB198 /* ContentView.swift in Sources */,
